@@ -1,1 +1,6 @@
-One more change
+Standard Git Commit practice when there is a Remote Repo available.
+
+1. Commit [git status -> git stage . or git add . -> git commit -m "message"]
+2. Pull [git pull]
+3. Merge
+4. Push
